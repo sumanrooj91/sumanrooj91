@@ -1,7 +1,7 @@
-![logo](https://drive.google.com/file/d/1hxsD7BQY1w5mQppQGNlaqyM19sjkqktr/view?usp=drivesdk)
+![logo]()
 <h1 align="center">Hi 👋, I'm Suman Rooj.</h1>
 <h3 align="center">A passionate front-end web developer from India</h3>
-<Img align="right" alt="coding" src="https://www.google.com/search?client=ms-android-oppo-rvo3&sa=X&sca_esv=cc24cf703c2872c1&udm=2&sxsrf=ADLYWIJeigMafYrVT_8tA8vgN-uLvJKg-A:1734872526009&q=front+end+developer+gif&stick=H4sIAAAAAAAAAFvEKp5WlJ9XopCal6KQklqWmpNfkFqkkJ6ZBgCqPZcwGgAAAA&source=univ&ved=2ahUKEwifv5Llt7uKAxUnxTgGHcWhJ24QrNwCegUIggEQAA&biw=360&bih=668&dpr=2#vhid=WjYrmThN2--TDM&vssid=mosaic&ip=1"/>
+<Img align="right" alt="coding" width="400" src=" https://drive.google.com/file/d/1iDCAQtwQsGb9qAJ-EKnY8TWs5xfqugO6/view?usp=drivesdk"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanrooj91&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrooj91" /> </p>
 
