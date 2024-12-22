@@ -1,4 +1,4 @@
-<img width="100%" height="50%" src="Blue and White Minimalist Website Development Service Linkedln Post.png"/>
+<img width="100%" height="50px" src="Blue and White Minimalist Website Development Service Linkedln Post.png"/>
 <h1 align="center">Hi 👋, I'm Suman Rooj.</h1>
 <h3 align="center">A passionate front-end web developer from India</h3>
 <Img align="right" alt="coding" width="400" src= "1674617947228.gif"/>
