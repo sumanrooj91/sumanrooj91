@@ -1,7 +1,7 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Suman Rooj.</h1>
 <h3 align="center">A passionate front-end web developer from India</h3>
-<Img align="right" alt="coding" width="400" src= " https://github.com/sumanrooj91/sumanrooj91/blob/main/1674617947228.gif"/>
+<Img align="right" alt="coding" width="400" src= "https://drive.google.com/file/d/1iDCAQtwQsGb9qAJ-EKnY8TWs5xfqugO6/view?usp=drivesdk"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanrooj91&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrooj91" /> </p>
 
