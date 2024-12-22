@@ -1,7 +1,7 @@
 <img width="100%" height="610px" src="Blue and White Minimalist Website Development Service Linkedln Post.png"/>
 <h1 align="center">Hi 👋, I'm Suman Rooj.</h1>
 <h3 align="center">A passionate front-end web developer from India</h3>
-<Img align="right" alt="coding" width="200" margin="0px" src= "1674617947228.gif"/>
+<Img align="right" alt="coding" width="160" margin="0px" src= "1674617947228.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanrooj91&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrooj91" /> </p>
 
